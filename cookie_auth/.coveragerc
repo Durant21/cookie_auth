@@ -1,0 +1,3 @@
+[run]
+source = cookie_auth
+omit = cookie_auth/test*
